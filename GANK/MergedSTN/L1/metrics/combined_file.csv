@@ -1,0 +1,17 @@
+Unnamed: 0,instance,nodes,edges,nshared,nbest,nend,components,strength
+1,1stPres/STN_Merged/2_20-merged,245,233,6,3,26,18,0.1
+1,1stPres/STN_Merged/2_38-merged,217,236,17,3,26,5,0.1333
+1,1stPres/STN_Merged/2_52-merged,209,260,30,3,24,2,0.1667
+1,1stPres/STN_Merged/3_20-merged,241,232,9,3,26,19,0.1
+1,1stPres/STN_Merged/3_34-merged,219,225,14,3,26,8,0.1333
+1,1stPres/STN_Merged/3_48-merged,225,272,29,3,24,1,0.1333
+1,1stPres/STN_Merged/4_20-merged,222,220,9,3,26,14,0.1
+1,1stPres/STN_Merged/4_30-merged,238,252,12,3,24,9,0.1
+1,1stPres/STN_Merged/4_40-merged,211,223,13,3,27,7,0.2
+1,1stPres/STN_Merged/5_20-merged,221,218,5,3,26,16,0.1
+1,1stPres/STN_Merged/5_28-merged,224,230,14,3,27,15,0.1333
+1,1stPres/STN_Merged/5_38-merged,214,227,17,3,25,6,0.1333
+1,1stPres/STN_Merged/6_20-merged,224,212,5,3,27,22,0.1
+1,1stPres/STN_Merged/6_26-merged,225,231,13,3,26,11,0.1333
+1,1stPres/STN_Merged/6_32-merged,239,237,8,3,27,16,0.1
+1,1stPres/STN_Merged/ALL-merged,225,211,1,3,27,25,0.1

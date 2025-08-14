@@ -1,0 +1,17 @@
+Unnamed: 0,instance,nodes,edges,nbest,nend,components,strength,plength,npaths
+1,P50_EVOCA.log_GA_Fnk_2_20_S_stn,53,76,1,8,1,0.1,5.1111,9
+1,P50_EVOCA.log_GA_Fnk_2_38_S_stn,42,65,1,8,1,0.3,4.3333,9
+1,P50_EVOCA.log_GA_Fnk_2_52_S_stn,36,71,1,5,1,0.4,3.4,10
+1,P50_EVOCA.log_GA_Fnk_3_20_S_stn,64,73,1,6,1,0.2,11.5,10
+1,P50_EVOCA.log_GA_Fnk_3_34_S_stn,43,66,1,7,1,0.5,5.0,10
+1,P50_EVOCA.log_GA_Fnk_3_48_S_stn,34,77,1,4,1,0.3,3.4444,9
+1,P50_EVOCA.log_GA_Fnk_4_20_S_stn,47,61,1,8,1,0.2,5.1,10
+1,P50_EVOCA.log_GA_Fnk_4_30_S_stn,53,69,1,8,1,0.1,8.5556,9
+1,P50_EVOCA.log_GA_Fnk_4_40_S_stn,46,71,1,5,1,0.8,3.4444,9
+1,P50_EVOCA.log_GA_Fnk_5_20_S_stn,57,70,1,7,1,0.1,5.5,4
+1,P50_EVOCA.log_GA_Fnk_5_28_S_stn,49,77,1,4,1,0.2,5.3333,9
+1,P50_EVOCA.log_GA_Fnk_5_38_S_stn,44,71,1,5,1,0.6,3.3,10
+1,P50_EVOCA.log_GA_Fnk_6_20_S_stn,64,69,1,8,1,0.1,6.6667,3
+1,P50_EVOCA.log_GA_Fnk_6_26_S_stn,51,72,1,6,1,0.4,3.8,10
+1,P50_EVOCA.log_GA_Fnk_6_32_S_stn,60,81,1,8,1,0.5,4.6,10
+1,P50_EVOCA.log_GA_FALL_S_stn,57,59,1,9,2,0.1,11.6667,6
